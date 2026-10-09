@@ -183,9 +183,6 @@ With the notch down:
     Pins 8–14 run downward along the left side.
     Pin 14 is at the bottom-left.
 
-This orientation is important. A board can pass KiCad DRC and still be wrong if the physical pin numbering does not match the motherboard and IC orientation.
-
-
 Required Parts
 
     1 × PET Video Cleaner PCB
