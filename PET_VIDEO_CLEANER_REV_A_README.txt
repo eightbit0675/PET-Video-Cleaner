@@ -28,7 +28,7 @@ The PET Video Cleaner is a small plug-in daughterboard intended for Commodore PE
 
 The board is not an amplifier, filter, or video brightness adjustment. It is a digital timing cleanup circuit. It re-clocks the PET's final logic-level video signal using the PET's own 8 MHz video clock so that short glitches in the video logic are not passed directly to the monitor.
 
-This modification is intended to be reversible. The original UG11 74LS20 is removed from the PET motherboard socket and installed on the daughterboard. The daughterboard then plugs into the original UG11 socket. A single added wire connects the daughterboard's CLK8 pad to UE11 pin 2.
+This modification is intended to be reversible. The original UG11 74LS20 is removed from the PET motherboard and installed on the daughterboard. The daughterboard then plugs into the original UG11 socket. A single added wire connects the daughterboard's CLK8 pad to UE11 pin 2. Please be advised that you will most like have to desolder 74LS20 and add a socket in order to install this board. This is the only board modification that must be performed in order to use the PET VIDEO CLEANER board.
 
 
 Design Background
