@@ -1,5 +1,7 @@
 # PET-Video-Cleaner
-Video timing cleanup board for the Commodore PET 320351 motherboard. View PET_VIDEO_CLEANER_REV_A_README.txt for detailed information.
+Video timing cleanup board for the Commodore PET 320351 motherboard. 
+
+View PET_VIDEO_CLEANER_REV_A_README.txt for detailed information.
 
 ## Before and After
 
